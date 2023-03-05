@@ -1,16 +1,11 @@
 # youenglish
-
-A new Flutter project.
-
+ 
+Searching YouTube Videos by phrase or word that is used in it.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+ - To run the project you should have YouTube API keys and credentials for the project. 
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [I have used YouTube Data APIv3](https://developers.google.com/youtube/v3)
+- [I have built a service using Flask to search videos by ID, search its captions and time the prase is used. You can run the service file insdie project 'youbute_captions.py' by running on terminal python3 youbute_captions.py]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
